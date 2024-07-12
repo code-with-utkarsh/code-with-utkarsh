@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-with-utkarsh&label=Profile%20views&color=0e75b6&style=flat" alt="code-with-utkarsh" /> </p>
 
-- 🔭 I’m currently working on [Web Development](https://github.com/code-with-utkarsh/)
+- 🔭 I’m currently working on [Web Development].
 
 - 🌱 I’m currently learning **Java programming, Full-stack Development...**
 
@@ -23,9 +23,9 @@
 <h3 align="left">Live Projects : </h3>
 
 <ol>
-<li><a href="https://iamnkr67.github.io/ToDo-App/" target="_blank"> ToDO APP </a></li>
-  <li><a href="https://iamnkr67.github.io/Calculator/" target="_blank"> Calculator </a> </li>
-<li><a href="https://github.com/iamnkr67/NodeJs_Realtime-Chat_Application" target="_blank"> NodeJs RealTime Chat-App </a></li>
+<li><a href="https://ezkaart.vercel.app/" target="_blank"> EZKart-Ecommerce Site </a></li>
+  <li><a href="https://code-with-utkarsh.github.io/calculator/" target="_blank"> Calculator </a> </li>
+<li><a href="https://github.com/code-with-utkarsh/summarizer" target="_blank"> Paragraph Summarizer</a></li>
 </ol>
 
 
