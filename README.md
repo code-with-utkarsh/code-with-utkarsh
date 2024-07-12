@@ -1,28 +1,24 @@
-<div align="center"> <img src="https://github.com/iamnkr67/iamnkr67/blob/main/github-header-image.png"> </div>
+<div align="center"> <img src="https://github.com/code-with-utkarsh/code-with-utkarsh/blob/main/github-header-image.png"> </div>
 <h3 align="center">Passionate coder and lifelong learner on a quest to explore the realms of programming.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamnkr67&label=Profile%20views&color=0e75b6&style=flat" alt="iamnkr67" /> </p>
 
-- 🔭 I’m currently working on [Web Development](https://github.com/iamnkr67/WebDev_Repo_BEG-ADV)
+- 🔭 I’m currently working on [Web Development](https://github.com/code-with-utkarsh/)
 
 - 🌱 I’m currently learning **Java programming, Full-stack Development...**
 
-- 👨‍💻 All of my projects are available at [https://github.com/iamnkr67](https://github.com/iamnkr67)
+- 👨‍💻 All of my projects are available at [https://github.com/code-with-utkarsh](https://github.com/code-with-utkarsh)
 
-- 📫 How to reach me **niteshkumaro7@hotmail.com, nitesh.guptaji76@gmail.com**
+- 📫 How to reach me **utkarshk6285@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/iamnkr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamnkr" height="30" width="40" /></a>
-<a href="https://instagram.com/iamnkr67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamnkr67" height="30" width="40" /></a>
-<a href="https://twitter.com/iamnkr67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamnkr67" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/iamnkr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamnkr" height="30" width="40" /></a>
-<a href="https://instagram.com/iamnkr67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamnkr67" height="30" width="40" /></a>
-<a href="https://medium.com/@iamnkr67" target="blank"><img align="center" src="medium_logo_icon_189223.png" alt="@iamnkr67" height="40" width="40" /></a>
-<a href="https://www.codechef.com/users/iamnkr67" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="iamnkr67" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/iamnkr67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@iamnkr67" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/iamnkr67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iamnkr67" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/utkarsh-7a0127251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="code-with-utkarsh" height="30" width="40" /></a>
+<a href="https://instagram.com/utkarsh.singh001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="utkarsh.singh001" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/utkarsh6285" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="utkarsh6285" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/utkarshk6285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@utkarshk6285" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/utkarshk6285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="utkarshk6285" height="30" width="40" /></a>
 <br><br>
 <h3 align="left">Live Projects : </h3>
 
@@ -34,11 +30,11 @@
 
 
 <br><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamnkr67&show_icons=true&locale=en&layout=compact" alt="iamnkr67" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=code-with-utkarsh&show_icons=true&locale=en&layout=compact" alt="code-with-utkarsh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamnkr67&show_icons=true&locale=en" alt="iamnkr67" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=code-with-utkarsh&show_icons=true&locale=en" alt="code-with-utkarsh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamnkr67&" alt="iamnkr67" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-utkarsh&" alt="code-with-utkarsh" /></p>
 
 
 
