@@ -1,6 +1,6 @@
 <div align="center"> <img src="https://github.com/code-with-utkarsh/code-with-utkarsh/blob/main/github-header-image.png"> </div>
 <h3 align="center">A passionate full stack developer and learner.</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-with-utkarsh&label=Profile%20views&color=0e75b6&style=flat" alt="code-with-utkarsh" /> </p>
 
