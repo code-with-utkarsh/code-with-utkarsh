@@ -8,9 +8,10 @@
 
 - 🌱 I’m currently learning **Java programming, Full-stack Development...**
 
-- 👨‍💻 All of my projects are available at https://github.com/code-with-utkarsh](https://github.com/code-with-utkarsh)
+- 👨‍💻 All of my projects are available at https://github.com/code-with-utkarsh
 
 - 📫 How to reach me **utkarshk6285@gmail.com**
+ <br>
 
 <h3 align="center">Connect with Me</h3>
 <p align="center">
